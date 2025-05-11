@@ -22,13 +22,15 @@ Several preprocessing steps were applied to clean and transform the dataset befo
 
 Handling Missing Values: Missing values in columns like Engine and Mileage were imputed using median values.
 
-Feature Engineering:
+
+**Feature Engineering:**
 
 Created a new feature Car_Age by subtracting the manufacturing year from the current year.
 
 Extracted numerical values from columns like Mileage and Engine which originally had units (e.g., "kmpl", "CC").
 
-Encoding Categorical Variables:
+
+**Encoding Categorical Variables:**
 
 Applied one-hot encoding to Fuel_Type, Transmission, and Seller_Type.
 
