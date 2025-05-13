@@ -17,15 +17,15 @@ Samples: ~6,500 rows (combined red and white wine)
 
 Features: 11 physicochemical attributes including:
 
-Fixed acidity
-Volatile acidity
-Citric acid
-Residual sugar
-Chlorides
-Free sulfur dioxide
-Total sulfur dioxide
-Density
-pH
-Sulphates
-Alcohol
+Fixed acidity,
+Volatile acidity,
+Citric acid,
+Residual sugar,
+Chlorides,
+Free sulfur dioxide,
+Total sulfur dioxide,
+Density,
+pH,
+Sulphates,
+Alcohol,
 Target: quality (Score: 0 to 10)
