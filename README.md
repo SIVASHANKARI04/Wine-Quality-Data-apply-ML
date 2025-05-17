@@ -18,14 +18,33 @@ Samples: ~6,500 rows (combined red and white wine)
 Features: 11 physicochemical attributes including:
 
 Fixed acidity,
+
 Volatile acidity,
+
 Citric acid,
+
 Residual sugar,
+
 Chlorides,
+
 Free sulfur dioxide,
+
 Total sulfur dioxide,
+
 Density,
+
 pH,
+
 Sulphates,
+
 Alcohol,
+
 Target: quality (Score: 0 to 10)
+
+
+**🎯 Objective**
+
+
+To build a machine learning model that can accurately predict wine quality based on its physicochemical properties,
+
+and evaluate which algorithms perform best on this classification task.
