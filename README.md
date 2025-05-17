@@ -48,3 +48,15 @@ Target: quality (Score: 0 to 10)
 To build a machine learning model that can accurately predict wine quality based on its physicochemical properties,
 
 and evaluate which algorithms perform best on this classification task.
+
+
+**🧹 Data Preparation**
+
+
+Missing Values: Checked and confirmed none.
+
+Outlier Treatment: Detected and handled using IQR method and z-score for features like alcohol and sulphates.
+
+Normalization: MinMaxScaler applied to scale numerical features.
+
+Class Balance: The quality scores are imbalanced (most are 5, 6). Addressed using techniques like class binning or SMOTE for balanced training.
