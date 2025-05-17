@@ -60,3 +60,25 @@ Outlier Treatment: Detected and handled using IQR method and z-score for feature
 Normalization: MinMaxScaler applied to scale numerical features.
 
 Class Balance: The quality scores are imbalanced (most are 5, 6). Addressed using techniques like class binning or SMOTE for balanced training.
+
+
+**🤖 Models Used**
+
+
+Several classification models were trained and evaluated:
+
+Logistic Regression
+
+Decision Tree Classifier
+
+Random Forest Classifier
+
+Support Vector Machine (SVM)
+
+K-Nearest Neighbors (KNN)
+
+Gradient Boosting Classifier
+
+XGBoost
+
+
