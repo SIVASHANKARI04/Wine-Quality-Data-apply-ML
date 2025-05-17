@@ -92,3 +92,21 @@ Recall
 F1-Score
 
 Confusion Matrix
+
+
+**🧠 Skills Applied**
+
+
+Exploratory Data Analysis (EDA)
+
+Supervised Machine Learning
+
+Model Evaluation and Comparison
+
+Feature Scaling and Engineering
+
+Handling Imbalanced Data
+
+Visualization with matplotlib and seaborn
+
+
