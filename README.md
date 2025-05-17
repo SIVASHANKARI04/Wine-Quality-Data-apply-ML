@@ -75,10 +75,20 @@ Random Forest Classifier
 
 Support Vector Machine (SVM)
 
-K-Nearest Neighbors (KNN)
-
-Gradient Boosting Classifier
+Ada Boost Classifier
 
 XGBoost
 
 
+**📊 Evaluation Metrics**
+
+
+Accuracy
+
+Precision
+
+Recall
+
+F1-Score
+
+Confusion Matrix
