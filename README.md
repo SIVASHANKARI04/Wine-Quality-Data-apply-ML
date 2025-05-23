@@ -1,4 +1,4 @@
-******🍷 Wine Quality Prediction using Machine Learning******
+**🍷 Wine Quality Prediction using Machine Learning**
 
 
 This project aims to predict the quality of wine based on physicochemical tests using various machine learning algorithms.
